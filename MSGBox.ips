@@ -1,0 +1,3 @@
+<script Language="VBScript">
+msgbox "Sorry, the web page you requested could not be found.",48,"Error"
+</script>
